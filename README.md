@@ -8,7 +8,7 @@ Code organization
 =================
 
  * **Dataset**
-   * [Cereal.csv](./Dataset/cereal.csv) -- dataset in csv format
+   * [cereal.csv](./Dataset/cereal.csv) -- dataset in csv format
    
  * **Source Code**
    * [Three_feature_affect_rating.py](./Source%20Code/Three_feature_affect_rating.py)
