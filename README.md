@@ -2,7 +2,7 @@
 
 Description
 ===========
-This is project done by Group 18 - .
+This is the project by Group 18 
 
 Code organization
 =================
