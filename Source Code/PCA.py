@@ -116,3 +116,15 @@ def three_dimension_plot(X_s, X):
     model.fit_transform(X_pca)
     ax = model.biplot3d(n_feat=8, legend=False)
     return ax
+
+if __name__ == '__main__':
+    df = pd.read_csv("../Dataset/cereal.csv")
+    # cleaning data
+    X, y = process_data_pca(df)
+    # fit pca
+    X_s, X_t, model, top_feat, importance_feat = fit_pca(X)
+    print("top features are")
+    print(top_feat)
+    pie_variance(model)
+    bi_plot(X_t, model, top_feat, importance_feat, X, y)
+    three_dimension_plot(X_s, X)

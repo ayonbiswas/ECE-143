@@ -18,10 +18,15 @@ Code organization
     * [data_visualization.ipynb](./Visualizatoin/data_visualisation.ipynb) -- google collab notebook containing all the plots used in the presentation.
   
  * **Presentation Slides**
-    * [ECE143 Group 18 Presentation.pf](./Presentation Slides/ECE143%20Group%2018%20Presentation.pdf) -- presentation slides in pdf format
+    * [ECE143 Group 18 Presentation.pf](./Presentation%20Slides/ECE143%20Group%2018%20Presentation.pdf) -- presentation slides in pdf format
  
 ========
 The dataset is available at : https://www.kaggle.com/crawford/80-cereals
+
+
+How to Run Code
+================
+
 
 
 Acknowledgements
