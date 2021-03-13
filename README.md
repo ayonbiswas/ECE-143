@@ -15,7 +15,7 @@ Code organization
    
    * [PCA.py](./Source%20Code/PCA.py) -- used for pca analysis
  * **Visualization**
-    * [data_visualization.ipynb](./Visualizatoin/data_visualization.ipynb) -- google collab notebook containing all the plots used in the presentation.
+    * [data_visualization.ipynb](./Visualization/data_visualization.ipynb) -- google collab notebook containing all the plots used in the presentation.
   
  * **Presentation Slides**
     * [ECE143 Group 18 Presentation.pf](./Presentation%20Slides/ECE143%20Group%2018%20Presentation.pdf) -- presentation slides in pdf format
@@ -44,7 +44,7 @@ How to Run Code
     cd Source Code
     python PCA.py
     ``` 
-* You can also reference to [visualization notebook](./Visualizatoin/data_visualization.ipynb) for usage
+* You can also reference to [visualization notebook](./Visualization/data_visualization.ipynb) for usage
 
 Acknowledgements
 ================
