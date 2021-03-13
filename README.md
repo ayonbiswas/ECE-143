@@ -8,7 +8,7 @@ Code organization
 =================
 
  * **Dataset**
-   * [cereal.csv](./Dataset/cereal.csv) -- dataset in csv format
+   * [Cereal.csv](./Dataset/cereal.csv) -- dataset in csv format
    
  * **Source Code**
    * [Three_feature_affect_rating.py](./Source%20Code/Three_feature_affect_rating.py)
@@ -18,7 +18,7 @@ Code organization
     * [data_visualization.ipynb](./Visualization/data_visualization.ipynb) -- google collab notebook containing all the plots used in the presentation.
   
  * **Presentation Slides**
-    * [ECE143 Group 18 Presentation.pf](./Presentation%20Slides/ECE143%20Group%2018%20Presentation.pdf) -- presentation slides in pdf format
+    * [ECE143 Group 18 Presentation.pdf](./Presentation%20Slides/ECE143%20Group%2018%20Presentation.pdf) -- presentation slides in pdf format
  
 ========
 The dataset is available at : https://www.kaggle.com/crawford/80-cereals
