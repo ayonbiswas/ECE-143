@@ -139,3 +139,4 @@ if __name__ == '__main__':
     ax4.scatter('vitamins', 'rating', data=data, c="blue")
     ax4.set_title("Vitamins", fontdict=fontdict, color="blue")
     plt.xlabel('grams per serving')
+    plt.show()
