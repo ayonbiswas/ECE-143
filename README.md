@@ -35,8 +35,16 @@ Third Party Modules
 * scipy
 * pca https://github.com/erdogant/pca
 
-Third Party Modules
+How to Run Code
 ================
+* Navigate to Source Code folder
+* Install all the third party modules
+* Example Usage
+    ```
+    cd Source Code
+    python PCA.py
+    ``` 
+* You can also reference to [visualization notebook](./Visualizatoin/data_visualisation.ipynb) for usage
 
 Acknowledgements
 ================
