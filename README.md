@@ -6,15 +6,15 @@ This is project done by Group 18 - .
 
 Code organization
 =================
-*  
+*  pca.iynb -- 
 
-* 
+*  data_visualisation.ipynb -- collab notebook with all the exploratory data analysis plots.
  
-* 
+*  
 
 Datasets
 ========
-The dataset was provided with the starter code.
+The dataset is available at : https://www.kaggle.com/crawford/80-cereals
 
 
 Acknowledgements
