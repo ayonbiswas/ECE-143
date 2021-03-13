@@ -19,7 +19,8 @@ Code organization
   
  * **Presentation Slides**
     * [ECE143 Group 18 Presentation.pdf](./Presentation%20Slides/ECE143%20Group%2018%20Presentation.pdf) -- presentation slides in pdf format
- 
+
+Dataset
 ========
 The dataset is available at : https://www.kaggle.com/crawford/80-cereals
 
@@ -48,5 +49,5 @@ How to Run Code
 
 Acknowledgements
 ================
-We thank Prof.  and TAs for their guidance and support.
+We thank Prof. and TAs for their guidance and support.
 
