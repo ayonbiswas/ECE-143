@@ -10,7 +10,8 @@ def process_data_pca(data):
     num_data.head()
     filt_d = num_data[num_data >= 0].dropna()
     X = filt_d
-    return X
+    y = filt_d['rating']
+    return X,y
 
 def fit_pca(X):
     sc = StandardScaler()
@@ -63,7 +64,7 @@ def pie_variance(pca):
     # show plot
     plt.show()
 
-def gen_bi_plot(score, coeff, top_feat, importance_feat, X):
+def gen_bi_plot(score, coeff, top_feat, importance_feat, X,y):
 
         pop_a = mpatches.Patch(color='r', label='Strong Contribution')
         pop_b = mpatches.Patch(color='royalblue', label='Weak Contribution')
@@ -91,7 +92,7 @@ def gen_bi_plot(score, coeff, top_feat, importance_feat, X):
             # print(string)
             plt.text(coeff[i, 0] * 1.10, coeff[i, 1] * 1.10, string, color='g', ha='left', va='bottom')
 
-def bi_plot(X_t, pca,top_feat, importance_feat, X):
+def bi_plot(X_t, pca,top_feat, importance_feat, X,y):
     plt.figure(figsize=(12, 12))
     plt.xlim(-0.45, 0.75)
     plt.ylim(-0.68, 0.6)
@@ -103,7 +104,7 @@ def bi_plot(X_t, pca,top_feat, importance_feat, X):
 
     # Call the function. Use only the 2 PCs.
     # myplot(X_train[:,0:2],np.transpose(pca.components_[0:2, :3]))
-    gen_bi_plot(X_t[:, 0:2], np.transpose(pca.components_[0:2, :], top_feat, importance_feat, X))
+    gen_bi_plot(X_t[:, 0:2], np.transpose(pca.components_[0:2, :]), top_feat, importance_feat, X,y)
     plt.title("PCA Biplot")
     plt.show()
 
