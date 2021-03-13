@@ -24,10 +24,19 @@ Code organization
 The dataset is available at : https://www.kaggle.com/crawford/80-cereals
 
 
-How to Run Code
+Third Party Modules
 ================
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* sklearn
+* plotly
+* scipy
+* pca https://github.com/erdogant/pca
 
-
+Third Party Modules
+================
 
 Acknowledgements
 ================
