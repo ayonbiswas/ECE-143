@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faacd3dd-28a0-4b38-8416-e7f0b8e1efbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Source Code/EDA_calories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source Code/EDA_rating.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source Code/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source Code/PCA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source Code/Three_feature_affect_rating.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source Code/Three_feature_affect_rating.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visualization/data_visualisation.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="600">
-                <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <first_editor relative-caret-position="680">
+                <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -135,6 +129,11 @@
             <path>
               <item name="ECE-143" type="b2602c69:ProjectViewProjectNode" />
               <item name="ECE-143" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECE-143" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECE-143" type="462c0819:PsiDirectoryNode" />
+              <item name="Source Code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,8 +286,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="600">
-            <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <first_editor relative-caret-position="680">
+            <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           </first_editor>
           <second_editor />
         </state>

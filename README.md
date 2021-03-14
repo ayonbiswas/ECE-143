@@ -17,7 +17,7 @@ Code organization
    
    * [Three_feature_affect_rating.py](./Source%20Code/Three_feature_affect_rating.py)
    
-   * [PCA.py](./Source%20Code/PCA.py) -- used for pca analysis
+   * [PCA.py](./Source%20Code/PCA.py) -- pca analysis to discover important features related to variance
    
    
  * **Visualization**
