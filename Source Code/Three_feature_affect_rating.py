@@ -6,6 +6,12 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
+"""Zongcheng Wang
+
+# Can type of cereal (hot or cold) affect rating?
+
+my reference https://www.kaggle.com/kianwee/analysis-on-cereal-prediction-on-ratings
+"""
 
 def overview():
     url = 'https://raw.githubusercontent.com/ayonbiswas/ECE-143/main/Dataset/cereal.csv'
