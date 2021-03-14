@@ -13,12 +13,13 @@ Code organization
  * **Source Code**
    * [EDA_calories.py](././Source%20Code/EDA_calories.py) -- correlations of calories and rating with weight, sugars and fat
    
-   * [EDA_rating.py](././Source%20Code/EDA_rating.py) -- major cereal manufacturers and what are their offerings. macro and micro nutrient stats
+   * [EDA_rating.py](././Source%20Code/EDA_rating.py) -- major cereal manufacturers and what are their offerings, macro and micro nutrient stats
    
    * [Three_feature_affect_rating.py](./Source%20Code/Three_feature_affect_rating.py) -- type of cereal (hot or cold) vs rating
    
    * [PCA.py](./Source%20Code/PCA.py) -- pca analysis to discover important features related to variance
    
+   * [predict_cereal.py](./Source%20Code/predict_cereal.py) -- cereal rating prediction 
    
  * **Visualization**
     * [data_visualization.ipynb](./Visualization/data_visualization.ipynb) -- google collab notebook containing all the plots used in the presentation.
