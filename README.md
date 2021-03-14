@@ -11,11 +11,11 @@ Code organization
    * [cereal.csv](./Dataset/cereal.csv) -- dataset in csv format
    
  * **Source Code**
-   * [EDA_calories.py](././Source%20Code/EDA_calories.py) 
+   * [EDA_calories.py](././Source%20Code/EDA_calories.py) -- correlations of calories and rating with weight, sugars and fat
    
-   * [EDA_rating.py](././Source%20Code/EDA_rating.py)
+   * [EDA_rating.py](././Source%20Code/EDA_rating.py) -- major cereal manufacturers and what are their offerings. macro and micro nutrient stats
    
-   * [Three_feature_affect_rating.py](./Source%20Code/Three_feature_affect_rating.py)
+   * [Three_feature_affect_rating.py](./Source%20Code/Three_feature_affect_rating.py) -- type of cereal (hot or cold) vs rating
    
    * [PCA.py](./Source%20Code/PCA.py) -- pca analysis to discover important features related to variance
    
